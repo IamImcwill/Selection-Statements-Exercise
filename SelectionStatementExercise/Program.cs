@@ -7,6 +7,7 @@
             int favNumber = 36;
 
             //string input = Console.ReadLine();
+            Console.WriteLine("Have a go at guessing my favorite number!!!");
 
             int userGuess = int.Parse(Console.ReadLine());
 
